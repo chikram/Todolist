@@ -1,0 +1,1 @@
+# Todolist basically a javascript project. There are two field of name and emali address by clicking on the add button you can add them into the list. There is an delete button as well you may delete it if you want
